@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "parser.h": "c",
+        "token.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "*.gitignore": "c",
+        "sto_utils.h": "c",
+        "callstack.h": "c"
+    }
+}
